@@ -1,6 +1,6 @@
 //输出区间内所有素数及其个数与和 2026.10.16
-#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>        
+#define _CRT_SECURE_NO_WARNINGS
 
 int main() {
 	int m, n;int Count = 0;int Sum = 0;
