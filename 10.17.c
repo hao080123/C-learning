@@ -1,3 +1,4 @@
+//输出N以内孪生素数  2026.10.17
 #include<stdio.h>
 #define _CRT_SECURE_NO_WARNINGS
 
