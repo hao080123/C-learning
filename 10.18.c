@@ -1,3 +1,4 @@
+//洛谷P5718找最小值 2026.10,18
 #include<stdio.h>
 #define _CRT_SECURE_NO_WARNINGS
 int main() {
