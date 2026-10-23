@@ -1,3 +1,4 @@
+输出正整数的最长连续因子及其个数
 #include<stdio.h>
 int main()
 {
