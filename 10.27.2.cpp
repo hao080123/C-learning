@@ -1,3 +1,4 @@
+//数组取逆序 2026.10.27
 #include<iostream>
 using namespace std;
 int main()
