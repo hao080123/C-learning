@@ -14,7 +14,7 @@ SQU2026abcZ
 
 建议用时：15～20 分钟。
 提示：遍历字符串，判断每个字符属于哪个范围。
-/*#include<iostream>
+#include<iostream>
 #include<string>
 using namespace std;
 int main()
@@ -31,7 +31,7 @@ int main()
    }
    cout<<count1<<" "<<count2<<" "<<count3;
    return 0;	
-}*/
+}
 
 
 
@@ -57,7 +57,7 @@ NO
 
 建议用时：20～25 分钟。
 提示：比较 s[i] 和 s[n - 1 - i]，只要有一对不同，就不是回文串。
-/*#include<iostream>
+#include<iostream>
 #include<string>
 using namespace std;
 int main()
@@ -76,7 +76,7 @@ int main()
 	}if(flag==1) cout<<"YES";
 	if(flag==0) cout<<"NO";
 	return 0;
-}*/
+}
 
 
 
@@ -115,7 +115,7 @@ aabbaacc
 a 2
 b 2
 c 2
-/*#include<iostream>
+#include<iostream>
 #include<string>
 using namespace std;
 int main()
@@ -139,10 +139,10 @@ int main()
 	}
 		}cout<<ans<<" "<<count;
 		return 0;
-}*/
+}
 
 //要输出每一个最长长度的字符 且不能重复输出
-/*#include <iostream>
+#include <iostream>
 #include <string>
 using namespace std;
 
@@ -200,7 +200,7 @@ int main()
     }
 
     return 0;
-}*/
+}
 
 
 
