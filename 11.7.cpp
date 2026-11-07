@@ -1,13 +1,13 @@
 //将成绩从小到大输出
-/*#include<iostream>
+#include<iostream>
 using namespace std;
 int main()
 {
 	int n;
 	cin>>n;
-	int a[100];                                           012345678
-	for(int i=0;i<n;i++)                                  123456789
-	cin>>a[i];                                            222243243
+	int a[100];                                           
+	for(int i=0;i<n;i++)                                  
+	cin>>a[i];                                            
 	int max=a[0];
 	for(int d=0;d<n-1;d++)
 	{
@@ -24,7 +24,7 @@ int main()
 	for(int i=0;i<n;i++)
 	cout<<a[i]<<" ";
 	return 0;
-}*/
+}
 
 
 
@@ -34,7 +34,7 @@ int main()
 
 
 //输入n个整数 将重复的数字去掉 按从小到大的顺序输出 并输出不同数字的个数
-/*#include<iostream>
+#include<iostream>
 using namespace std;
 int main()
 {
@@ -67,13 +67,13 @@ int count=1;
 		cout<<a[i]<<" ";
 	}
 	return 0;
-}*/
+}
 
 
 
 
 
-
+//输入n个整数 从不同位置选出两个数 使它们的差的绝对值最小 选择较小的那个数最小的一组
 #include<iostream>
 using namespace std;
 int main()
